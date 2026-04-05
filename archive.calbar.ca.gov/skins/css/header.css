@@ -1,0 +1,7 @@
+.sbc-header
+  .block-responsive-menu-horizontal-menu
+  ul.menu-level--1
+  .menu-item--level-1,
+.menu--main ul.menu-level--1 .menu-item--level-1 {
+  height: 100%;
+}

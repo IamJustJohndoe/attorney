@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+apps.calbar.ca.gov	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinityCORS	c1ca3a2104b8795d8fb9bac7a12489f1
+apps.calbar.ca.gov	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinity	c1ca3a2104b8795d8fb9bac7a12489f1
+apps.calbar.ca.gov	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	fb5ug2nhxb1ftsbwrinfuofc
+archive.calbar.ca.gov	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinityCORS	357abb48b922a8703a936f0686d68a14
+archive.calbar.ca.gov	TRUE	/	FALSE	1999999999	SameSite	None
+archive.calbar.ca.gov	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinity	357abb48b922a8703a936f0686d68a14
+apps.calbar.ca.gov	TRUE	/	FALSE	1999999999	ADRUM_BTa	R:45|g:88da8cee-7cf1-4735-bc6f-ef402fe62eb8|n:statebarca_9219af82-df29-482d-bbbd-69f0782dac88
+apps.calbar.ca.gov	TRUE	/	FALSE	1999999999	ADRUM_BT1	R:45|i:1602173|e:44
+apps.calbar.ca.gov	TRUE	/	FALSE	1999999999	SameSite	None
+

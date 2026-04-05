@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 Apr 2026 22:04:18 at https://apps.calbar.ca.gov/attorney/Licensee/Detail/119074 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://apps.calbar.ca.gov/attorney/Licensee/Detail/119074 -O1 "C:\Users\ADMIN\Desktop\attorney search" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+22:05:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://apps.calbar.ca.gov/attorney/Licensee/Detail/119074)
+
+22:06:00	Error: 	"Not Found" (404) at link https://apps.calbar.ca.gov/attorney/Licensee/Detail/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+
+22:06:00	Error: 	"Not Found" (404) at link https://apps.calbar.ca.gov/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+22:06:00	Error: 	"Not Found" (404) at link https://apps.calbar.ca.gov/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+
+22:06:00	Error: 	"Not Found" (404) at link https://apps.calbar.ca.gov/attorney/Licensee/Detail/n.dl (from https://connect.facebook.net/en_US/fbevents.js)
+
+22:06:00	Error: 	"Not Found" (404) at link https://apps.calbar.ca.gov/attorney/Licensee/Detail/n.rl (from https://connect.facebook.net/en_US/fbevents.js)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 42 seconds : 57 links scanned, 50 files written (10243447 bytes overall) [2346012 bytes received at 23000 bytes/sec], 10079466 bytes transferred using HTTP compression in 29 files, ratio 21%, 4.0 requests per connection
+
+(6 errors, 0 warnings, 0 messages)
+

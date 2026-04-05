@@ -1,0 +1,78 @@
+﻿/* Its for "More about This Attorney" link in Attorney Search */
+ul#panelMoreDetail li {
+    margin: .5em 0 .5em 0em !important;
+}
+  /* To remove extra space between "More about This Attorney" and the down arrow */
+  ul#panelMoreDetail li a span.k-icon.k-i-arrow-60-down.k-panelbar-expand,
+  ul#panelMoreDetail li a span.k-icon.k-i-arrow-60-up.k-panelbar-collapse {
+    margin-left: 0px;
+  }
+/*mobile menu margin*/
+#off-canvas.mm-menu {
+    z-index: 1000;
+    transition: none;
+    margin-top: 85px;
+}
+.mm-menu_offcanvas {
+     width: 100%; 
+    min-width: 240px;
+    max-width: 992px; 
+}
+/*h1 width*/
+.node {
+    width: 100%;
+}
+/*mobile menu margin*/
+form {
+    flex-direction: column;
+}
+.m25 {
+    margin-top: 25px;
+}
+.search-input {
+    display: flex;
+}
+/*tables*/
+table tr:nth-child(even) {
+    background-color: transparent;
+    border-bottom: 1px solid #e0e0e0;
+    border-top: 1px solid #e0e0e0;
+}
+table td:not(:last-child) {
+    border-right: 0.0625rem solid white;
+}
+/*header z index*/
+.node--type-page .page-header--title h1 {
+    z-index: 0;
+}
+article.node.node--type-page.node--view-mode-full {
+    z-index: 0;
+}
+.block-sbc-search-header-block #search-header-drawer form {
+    display: flex;
+    flex-direction: row;
+}
+/* Match the 16px base font size used across the site for consistent alignment */
+table td {
+  font-size: 1rem;
+}
+/*stop make sure check box command radial buttons show*/
+input[type=checkbox] {
+    -webkit-appearance: button !important;
+    border-radius: 0 !important;
+    clip-path: inset(0) !important;
+    opacity: 1;
+    width: 32px;
+    height: 18px;
+    clip: auto;
+}
+.sounds-like-container {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px 20px;
+    row-gap: 10px;
+    column-gap: 20px;
+}
+.sounds-for-label{
+    padding-left: 10px;
+}

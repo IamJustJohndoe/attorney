@@ -1,0 +1,52 @@
+/* Ensure the page uses full height and removes default browser margins */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Layout wrapper: uses flexbox to push footer to the bottom of the page */
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+	/* Main content grows to fill available vertical space */
+	.layout-container {
+		flex: 1;
+	}
+	
+
+/* Hide the mobile off-canvas menu on desktop screens */
+@media screen and (min-width: 992px) {
+	#off-canvas {
+	display: none;    
+  }
+}
+
+/* Mobile Menu Margin */
+#off-canvas.mm-menu {
+    z-index: 1000;
+    transition: none;
+    margin-top: 85px;
+}
+.mm-menu_offcanvas {
+     width: 100%; 
+    min-width: 240px;
+    max-width: 992px; 
+}
+
+.sbc-footer {
+    z-index: 0;
+}
+
+.sbc-header .responsive-menu-page-wrapper {
+    min-height: 10vh;    
+}
+
+div#block-sbc-blue-gtranslate {
+    margin-right: 10px;
+}
+/* To show upward arrows for external links */
+.sbc-footer svg.ext {
+  display: block;
+}
